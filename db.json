@@ -1,0 +1,153 @@
+
+{
+    "studentInfo" :[ {
+        "Id" : 1,
+        "name" : "Shajib",
+        "class" : 6,
+        "roll"  : 20,
+        "grounp" : "Science"
+    },
+    {
+        "Id" : 2,
+        "name" : "Rakib",
+        "class" : 7,
+        "roll" : 23
+    },
+    {
+        "Id" : 2,
+        "name" : "Rakib",
+        "class" : 7,
+        "roll"  : 40,
+        "grounp" : "Science"
+    },
+    {
+        "Id" : 3,
+        "name" : "Junayed",
+        "class" : 6,
+        "roll"  : 25,
+        "grounp" : "Arts"
+    },
+    {
+        "Id" : 4,
+        "name" : "Shovo",
+        "class" : "9",
+        "roll" : 23,
+        "group" : "Commerce"
+    },
+    {
+        "Id" : 5,
+        "name" : "Sumon",
+        "class" : 7,
+        "roll" : 32,
+        "group" : "Social Science"
+    },
+    {
+        "Id" : 6,
+        "name" : "Jamela",
+        "class" : 7,
+        "roll" : 65,
+        "group" : "Social Science"
+    },
+    {
+        "Id" : 7,
+        "name" : "Shahed",
+        "class" : 7,
+        "roll" : 62,
+        "group" : " Science"
+    },
+    {
+        "Id" : 8 ,
+        "name" : "Mehdi",
+        "class" : 7,
+        "roll" : 56,
+        "group" : "Social Science"
+    },
+    {
+        "Id" : 9,
+        "name" : "Asraful",
+        "class" : 8,
+        "roll" : 35,
+        "group" : "Arts"
+    },
+    {
+        "Id" : 10,
+        "name" : "Toki",
+        "class" : 9,
+        "roll" : 45,
+        "group" : " Science"
+    }
+],
+    
+    "teacherInfo" : [ {
+        "Id" : 1,
+        "name" : "Asma",
+        "age" : 34,
+        "skill" : "BSC"
+        
+    },
+    {
+        "Id" : 2,
+        "name" : "Sarif",
+        "age" : 34,
+        "skill" : "Honours"
+
+    },
+    {
+        "Id" : 3,
+        "name" : "Jibon",
+        "age" : 54,
+        "skill" : "Masters"
+
+    },
+    {
+        "Id" : 4,
+        "name" : "Sumon",
+        "age" : 65,
+        "skill" : "Masters"
+
+    },
+    {
+        "Id" : 5,
+        "name" : "Sojol",
+        "age" : 54,
+        "skill" : "BSC"
+
+    },
+    {
+        "Id" : 6,
+        "name" : "Sohel",
+        "age" : 65,
+        "skill" : "MBA"
+
+    },
+    {
+        "Id" : 7,
+        "name" : "Sakib",
+        "age" : 57,
+        "skill" : "Masters"
+
+    },
+    {
+        "Id" : 8,
+        "name" : "Hosen",
+        "age" : 35,
+        "skill" : "BSC"
+
+    },
+    {
+        "Id" :9,
+        "name" : "Alomgir",
+        "age" : 45,
+        "skill" : "English"
+
+    },
+    {
+        "Id" : 10,
+        "name" : "Sahid",
+        "age" : 35,
+        "skill" : "BSC"
+
+    }
+]
+}
+
